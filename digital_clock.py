@@ -17,3 +17,5 @@ digital_clock_lbl = ui.Label(window, text="00:00:00",
 digital_clock_lbl.pack()
 
 update_clock()
+
+window.mainloop()
